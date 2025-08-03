@@ -8,9 +8,9 @@ An AI-powered tool that ingests complex Electronic Health Records (EHR) — incl
 
 - Summarises raw EHR data into readable, accurate summaries.
 - Supports clinical notes, discharge summaries, and lab reports.
-- ⚙Uses **LangChain** with **Mistral-7B** (or OpenAI/GPT-4 optionally).
+- Uses **LangChain** with **Mistral-7B** (or OpenAI/GPT-4 optionally).
 - Frontend built with **Streamlit** for easy user interaction.
-- 🗃Stores patient data and summaries using **PostgreSQL**.
+- Stores patient data and summaries using **PostgreSQL**.
 - Converts EHR into **FHIR-compliant** structure.
 
 ---
